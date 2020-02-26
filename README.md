@@ -1,0 +1,3 @@
+# Adafruit-Ultimate-GPS-Breakout
+ Adafruit-Ultimate-GPS-Breakout 66 channel w/10 Hz updates - Version 3 Eagle Library
+Adafruit Ultimate GPS Breakout module for the Eagle library.
